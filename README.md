@@ -13,7 +13,10 @@ Universal Compiler as a Service (or Web Page)
  - Product: Universal JS Interpreter for any language.
  - Generate transformation rules based on node inputs and outputs for each language.
  - Product: Language translator from any to any language.
- 
+
+# Source code generation
+ - https://github.com/renatahodovan/grammarinator
+
 # UI
  - Present user a number of choices from 1 to 9 ("tab completion").
  - Base choices on current code in editor, cursor position and grammar.
